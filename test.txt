@@ -1,0 +1,10 @@
+ Volume in drive C is ACER
+ Volume Serial Number is 54BB-7B8E
+
+ Directory of C:\Ankur\Git\MyProject
+
+23-06-2019  22:06    <DIR>          .
+23-06-2019  22:06    <DIR>          ..
+23-06-2019  22:06                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  450,435,792,896 bytes free
