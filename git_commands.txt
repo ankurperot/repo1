@@ -1,0 +1,50 @@
+-- create repository
+Git init
+
+-- check status of the files
+git status
+
+-- add a file in staging area
+git add <Filename>
+
+-- saving changes in a repo
+git commit -m "--any message--"
+
+--- saving the email id and username in the config
+git config --global user.email "ankur.perot@gmail.com"
+git config --global user.name "ankurperot"
+
+--- add a new remote on your repository 
+git remote add origin <repo cerated online on git hub>
+
+--- push commits on local to remote repository
+git push -u origin master
+
+-- check logs
+git log
+
+--- get git help
+git help
+
+ ---- my repo online on git hub
+https://github.com/ankurperot/repo1.git
+
+-- create a branch
+git branch "<Branchname>"
+
+--- checking out the new branch to work
+git checkout "NewBranch"
+
+-- merger new branch to master
+git merge "<branch name>"
+fot this to work, first checkout master and then merge the new branch to the master
+
+-- delete the branch
+git branch -d <newbranch>
+this will delete only from local
+
+git puush origin --delete "branchname" 
+this will delete from remote 
+
+
+
