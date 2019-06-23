@@ -5,4 +5,4 @@ Git and Github				Till 5, have to start with sending mail slide
 
 Java						Start with 4, download eclipse
 
-Selenium					Slide 1 completed
+Selenium					Slide 4 completed, start with slide 5 writing first selenium script
