@@ -1,0 +1,8 @@
+Training 				Till what slide or session
+-------------			------------------------------------
+
+Git and Github				Till 5, have to start with sending mail slide
+
+Java						Start with 4, download eclipse
+
+Selenium					Slide 1 completed
