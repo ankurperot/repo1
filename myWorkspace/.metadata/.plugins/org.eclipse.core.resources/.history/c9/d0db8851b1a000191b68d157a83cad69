@@ -1,0 +1,24 @@
+package ClassesAndObjects;
+
+public class AccountHolderObjects {
+
+	public static void main(String[] args) {
+		
+		AccountHolder tom = new AccountHolder();
+		AccountHolder henry = new AccountHolder();
+		AccountHolder sarah = new AccountHolder();
+		
+		tom.firstname = "Tom";
+		tom.lastname = "Middleton";
+		tom.age = 20;
+		tom.AccountBalance = 10000;
+		
+		tom.testEligibilityForCreditCard();
+		System.out.println("Is tom eligible for credit card: " +tom.eligibileForCreditCard);
+		
+		
+		
+
+	}
+
+}
