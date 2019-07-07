@@ -23,7 +23,7 @@ public class AccountHolderObjects {
 		sarah.firstname = "Sarah";
 		sarah.lastname = "McLauren";
 		sarah.age = 31;
-		sarah.AccountBalance = 18000;
+		sarah.AccountBalance = 26000;
 		sarah.testEligibilityForCreditCard();
 		
 		
